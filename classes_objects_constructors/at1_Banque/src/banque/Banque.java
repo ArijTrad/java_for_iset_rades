@@ -16,6 +16,7 @@ public class Banque {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        //trial for repo altered
         Scanner sc = new Scanner(System.in);
 
         Compte compteA= new Compte (123 , "Mohamed" , 1500.20f);
