@@ -16,6 +16,7 @@ public class Somme {
 
         System.out.println(ch+n+sum);
         System.out.println("la somme des "+ n+ " premiers nombres = "+ sum+ch);
+        System.out.println("hello world random push");
 
 
 
